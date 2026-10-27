@@ -1,0 +1,7 @@
+*.claude/
+*.md
+*CLAUDE.md
+proj1
+tests
+*.o
+*.d
